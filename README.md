@@ -39,6 +39,8 @@
 <h3 align="center"><a href="https://www.itbiznews.com/news/articleView.html?idxno=68828">한국핀테크산업협회, 디알씨모빌리티(DRC) 정회원 가입 승인</a></h3>
 <h3 align="center"><a href="https://www.coinreaders.com/28250">디알씨모빌리티(DRC), 리그오브레전드 챔피언스 코리아 (LCK) 제작 지원</a></h3>
 <h3 align="center"><a href="https://m.coinreaders.com/a.html?uid=26117">디알씨모빌리티(DRC), 블록체인 기반 NFT·P2E 게임 생태계 구축</a></h3>
+<h3 align="center"><a href="https://www.coinreaders.com/19821">디알씨모빌리티(DRC), 19일 카카오 클레이스왑 상장</a></h3>
+<h3 align="center"><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=93133">[코인원 급등주]비지엑스프로토콜·디알씨모빌리티·테넷·템코·모티브, 뭐길래?</a></h3>
 
 
 <br>
